@@ -1,0 +1,5 @@
+python -c "from linear_programming import test_problem; test_problem()"
+
+python examples.py
+
+streamlit run app_streamlit.py
